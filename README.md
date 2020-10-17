@@ -1,3 +1,5 @@
 # My First React Project
 
-Hey, welcome to your first attempt at something new
+Hey, welcome to your first attempt at something new!
+
+run 'npm ins
